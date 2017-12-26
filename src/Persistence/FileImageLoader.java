@@ -6,7 +6,7 @@
 package Persistence;
  
  import imageviewer.model.Image;
- import imageviewer.persistence.ImageLoader;
+ import Persistence.ImageLoader;
  import java.io.BufferedInputStream;
  import java.io.File;
  import java.io.FileFilter;
